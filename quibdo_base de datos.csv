@@ -1,0 +1,98 @@
+codigo_estacion,nombre_estacion,inundacion,fecha_observacion,intensidad,departamento,municipio,zona_hidrografica,zona_barrio,nivel_rio,caudal,duracion_lluvia,clima,evento_extremo,nubosidad,longitud,latitud,costos_estimados_cop,precipitacion_mm,temperatura
+27060030,Quibdó,Fluvial,2005-05-20,Moderada,Chocó,Quibdó,Atrato,Kennedy,No disponible,No disponible,10 horas,Lluvioso,Sí,84,-76.6411,5.6906,No disponible,720,27
+80144,Aeropuerto El Caraño,Fluvial,2005-06-10,Moderada,Chocó,Quibdó,Atrato,Las Margaritas,No disponible,No disponible,10 horas,Lluvioso,Sí,84,-76.6411,5.6906,No disponible,720,27
+80144,Aeropuerto El Caraño,Fluvial,2005-11-15,Severa,Chocó,Quibdó,Atrato,Kennedy,No disponible,No disponible,13 horas,Tormenta eléctrica,Sí,88,-76.6411,5.6906,1500000000,850,26.7
+27060030,Quibdó,Pluvial,2006-06-20,Leve,Chocó,Quibdó,Atrato,La Yesca,No disponible,No disponible,8 horas,Lluvioso,No,80,-76.6411,5.6906,No disponible,610,27.4
+80144,Aeropuerto El Caraño,Pluvial,2006-11-10,Leve,Chocó,Quibdó,Atrato,La Yesca,No disponible,No disponible,8 horas,Lluvioso,No,80,-76.6411,5.6906,No disponible,610,27.4
+27060030,Quibdó,Fluvial,2007-05-25,Moderada,Chocó,Quibdó,Atrato,El Caraño,No disponible,No disponible,11 horas,Lluvioso,Sí,86,-76.6411,5.6906,No disponible,730,27
+27060030,Quibdó,Fluvial,2007-06-10,Severa,Chocó,Quibdó,Atrato,El Caraño,No disponible,No disponible,14 horas,Tormenta eléctrica,Sí,89,-76.6411,5.6906,1700000000,860,26.6
+27060030,Quibdó,Fluvial,2008-06-15,Severa,Chocó,Quibdó,Atrato,San José,No disponible,No disponible,14 horas,Tormenta eléctrica,Sí,89,-76.6411,5.6906,1800000000,860,26.6
+80144,Aeropuerto El Caraño,Pluvial,2008-11-20,Leve,Chocó,Quibdó,Atrato,Las Margaritas,No disponible,No disponible,9 horas,Lluvioso,No,82,-76.6411,5.6906,No disponible,630,27.3
+27060030,Quibdó,Fluvial,2009-05-15,Moderada,Chocó,Quibdó,Atrato,Kennedy,No disponible,No disponible,10 horas,Lluvioso,Sí,84,-76.6411,5.6906,No disponible,710,27
+27060030,Quibdó,Fluvial,2009-06-15,Severa,Chocó,Quibdó,Atrato,Las Margaritas,5.2,2600,14 horas,Lluvioso,Sí,89,-76.6411,5.6906,1800000000,840,26.5
+80144,Aeropuerto El Caraño,Fluvial,2009-06-20,Moderada,Chocó,Quibdó,Atrato,San José,No disponible,No disponible,11 horas,Lluvioso,Sí,86,-76.6411,5.6906,No disponible,730,27
+80144,Aeropuerto El Caraño,Fluvial,2010-06-15,Severa,Chocó,Quibdó,Atrato,La Yesca,5.5,2700,15 horas,Lluvioso,Sí,90,-76.6411,5.6906,2800000000,870,26.5
+27060030,Quibdó,Fluvial,2010-11-10,Severa,Chocó,Quibdó,Atrato,El Caraño,5.8,2800,16 horas,Tormenta eléctrica,Sí,90,-76.6411,5.6906,3200000000,880,26.6
+80144,Aeropuerto El Caraño,Fluvial,2010-11-20,Severa,Chocó,Quibdó,Atrato,Kennedy,5.8,2800,16 horas,Lluvioso,Sí,90,-76.6411,5.6906,3200000000,880,26.6
+27060030,Quibdó,Fluvial,2010-12-15,Severa,Chocó,Quibdó,Atrato,Las Margaritas,5.7,2800,16 horas,Lluvioso,Sí,90,-76.6411,5.6906,3000000000,880,26.6
+80144,Aeropuerto El Caraño,Fluvial,2011-05-10,Moderada,Chocó,Quibdó,Atrato,Kennedy,4.7,2250,12 horas,Tormenta eléctrica,Sí,85,-76.6411,5.6906,2000000000,740,27
+27060030,Quibdó,Fluvial,2011-06-10,Moderada,Chocó,Quibdó,Atrato,La Yesca,4.5,2200,12 horas,Tormenta eléctrica,Sí,85,-76.6411,5.6906,2000000000,750,27
+80144,Aeropuerto El Caraño,Fluvial,2011-06-20,Moderada,Chocó,Quibdó,Atrato,San José,4.6,2300,12 horas,Lluvioso,Sí,85,-76.6411,5.6906,2000000000,750,27
+27060030,Quibdó,Fluvial,2011-07-15,Severa,Chocó,Quibdó,Atrato,Las Margaritas,5.6,2700,15 horas,Lluvioso,Sí,90,-76.6411,5.6906,2500000000,870,26.5
+80144,Aeropuerto El Caraño,Pluvial,2011-11-15,Leve,Chocó,Quibdó,Atrato,Las Margaritas,No disponible,No disponible,8 horas,Lluvioso,No,80,-76.6411,5.6906,No disponible,610,27.4
+80144,Aeropuerto El Caraño,Fluvial,2011-11-25,Moderada,Chocó,Quibdó,Atrato,Kennedy,4.8,2300,12 horas,Tormenta eléctrica,Sí,85,-76.6411,5.6906,1800000000,740,27
+27060030,Quibdó,Pluvial,2011-12-05,Leve,Chocó,Quibdó,Atrato,La Yesca,No disponible,No disponible,8 horas,Lluvioso,No,80,-76.6411,5.6906,No disponible,610,27.4
+80144,Aeropuerto El Caraño,Fluvial,2012-05-20,Moderada,Chocó,Quibdó,Atrato,El Caraño,4.9,2400,11 horas,Lluvioso,Sí,86,-76.6411,5.6906,1800000000,730,27
+27060030,Quibdó,Pluvial,2012-06-05,Leve,Chocó,Quibdó,Atrato,La Yesca,No disponible,No disponible,8 horas,Lluvioso,No,80,-76.6411,5.6906,No disponible,610,27.4
+80144,Aeropuerto El Caraño,Pluvial,2012-06-20,Leve,Chocó,Quibdó,Atrato,San José,No disponible,No disponible,8 horas,Lluvioso,No,80,-76.6411,5.6906,No disponible,620,27.4
+80144,Aeropuerto El Caraño,Fluvial,2012-06-10,Moderada,Chocó,Quibdó,Atrato,Kennedy,4.8,2400,11 horas,Lluvioso,Sí,86,-76.6411,5.6906,1800000000,730,27
+27060030,Quibdó,Fluvial,2012-11-25,Severa,Chocó,Quibdó,Atrato,La Yesca,5.2,2600,14 horas,Tormenta eléctrica,Sí,89,-76.6411,5.6906,2500000000,860,26.7
+80144,Aeropuerto El Caraño,Pluvial,2012-11-15,Leve,Chocó,Quibdó,Atrato,Kennedy,No disponible,No disponible,8 horas,Lluvioso,No,80,-76.6411,5.6906,No disponible,610,27.4
+27060030,Quibdó,Fluvial,2012-12-10,Severa,Chocó,Quibdó,Atrato,San José,5.3,2600,14 horas,Tormenta eléctrica,Sí,89,-76.6411,5.6906,2500000000,860,26.7
+80144,Aeropuerto El Caraño,Fluvial,2013-05-15,Moderada,Chocó,Quibdó,Atrato,Las Margaritas,No disponible,No disponible,10 horas,Lluvioso,Sí,84,-76.6411,5.6906,No disponible,720,27
+27060030,Quibdó,Fluvial,2013-05-25,Severa,Chocó,Quibdó,Atrato,La Yesca,5.1,2550,14 horas,Tormenta eléctrica,Sí,89,-76.6411,5.6906,2500000000,870,26.7
+80144,Aeropuerto El Caraño,Fluvial,2013-06-15,Moderada,Chocó,Quibdó,Atrato,El Caraño,No disponible,No disponible,10 horas,Lluvioso,Sí,84,-76.6411,5.6906,No disponible,720,27
+27060030,Quibdó,Pluvial,2013-11-15,Leve,Chocó,Quibdó,Atrato,San José,No disponible,No disponible,9 horas,Lluvioso,No,82,-76.6411,5.6906,No disponible,630,27.3
+80144,Aeropuerto El Caraño,Fluvial,2013-11-10,Severa,Chocó,Quibdó,Atrato,Las Margaritas,No disponible,No disponible,13 horas,Tormenta eléctrica,Sí,88,-76.6411,5.6906,2700000000,860,26.7
+27060030,Quibdó,Fluvial,2013-12-05,Severa,Chocó,Quibdó,Atrato,Las Margaritas,No disponible,No disponible,14 horas,Tormenta eléctrica,Sí,89,-76.6411,5.6906,2600000000,850,26.7
+80144,Aeropuerto El Caraño,Pluvial,2014-06-12,Leve,Chocó,Quibdó,Atrato,Kennedy,No disponible,No disponible,9 horas,Lluvioso,No,82,-76.6411,5.6906,No disponible,630,27.3
+27060030,Quibdó,Fluvial,2014-06-25,Leve,Chocó,Quibdó,Atrato,Kennedy,No disponible,No disponible,9 horas,Lluvioso,No,82,-76.6411,5.6906,No disponible,630,27.3
+80144,Aeropuerto El Caraño,Fluvial,2014-11-15,Severa,Chocó,Quibdó,Atrato,Las Margaritas,5.0,2500,15 horas,Lluvioso,Sí,90,-76.6411,5.6906,2700000000,880,26.6
+27060030,Quibdó,Fluvial,2014-11-20,Severa,Chocó,Quibdó,Atrato,El Caraño,No disponible,No disponible,13 horas,Tormenta eléctrica,Sí,88,-76.6411,5.6906,2700000000,850,26.7
+80144,Aeropuerto El Caraño,Pluvial,2015-05-15,Leve,Chocó,Quibdó,Atrato,San José,No disponible,No disponible,8 horas,Lluvioso,No,81,-76.6411,5.6906,No disponible,620,27.4
+27060030,Quibdó,Fluvial,2015-06-10,Moderada,Chocó,Quibdó,Atrato,El Caraño,No disponible,No disponible,10 horas,Lluvioso,Sí,84,-76.6411,5.6906,No disponible,710,27
+80144,Aeropuerto El Caraño,Fluvial,2015-11-20,Moderada,Chocó,Quibdó,Atrato,La Yesca,No disponible,No disponible,10 horas,Lluvioso,Sí,84,-76.6411,5.6906,No disponible,720,27
+27060030,Quibdó,Fluvial,2015-11-10,Moderada,Chocó,Quibdó,Atrato,Las Margaritas,No disponible,No disponible,10 horas,Lluvioso,Sí,84,-76.6411,5.6906,No disponible,710,27
+80144,Aeropuerto El Caraño,Fluvial,2016-05-20,Severa,Chocó,Quibdó,Atrato,Kennedy,5.1,2550,14 horas,Lluvioso,Sí,89,-76.6411,5.6906,1500000000,870,26.6
+27060030,Quibdó,Fluvial,2016-05-10,Severa,Chocó,Quibdó,Atrato,Las Margaritas,No disponible,No disponible,13 horas,Tormenta eléctrica,Sí,88,-76.6411,5.6906,2700000000,860,26.6
+27060030,Quibdó,Fluvial,2016-06-15,Severa,Chocó,Quibdó,Atrato,Kennedy,5.0,2500,14 horas,Lluvioso,Sí,89,-76.6411,5.6906,1267000000,860,26.6
+80144,Aeropuerto El Caraño,Fluvial,2016-10-20,Severa,Chocó,Quibdó,Atrato,San José,5.0,2500,15 horas,Lluvioso,Sí,90,-76.6411,5.6906,1267000000,880,26.5
+27060030,Quibdó,Fluvial,2016-10-15,Severa,Chocó,Quibdó,Atrato,San José,5.0,2500,15 horas,Lluvioso,Sí,90,-76.6411,5.6906,1267000000,880,26.5
+80144,Aeropuerto El Caraño,Pluvial,2016-11-10,Leve,Chocó,Quibdó,Atrato,San José,No disponible,No disponible,8 horas,Lluvioso,No,81,-76.6411,5.6906,No disponible,620,27.4
+27060030,Quibdó,Fluvial,2016-12-05,Moderada,Chocó,Quibdó,Atrato,San José,No disponible,No disponible,12 horas,Tormenta eléctrica,Sí,86,-76.6411,5.6906,No disponible,740,27
+80144,Aeropuerto El Caraño,Pluvial,2016-11-15,Leve,Chocó,Quibdó,Atrato,El Caraño,No disponible,No disponible,9 horas,Lluvioso,No,82,-76.6411,5.6906,No disponible,630,27.3
+27060030,Quibdó,Fluvial,2017-05-15,Leve,Chocó,Quibdó,Atrato,Las Margaritas,No disponible,No disponible,8 horas,Lluvioso,No,80,-76.6411,5.6906,No disponible,610,27.4
+80144,Aeropuerto El Caraño,Fluvial,2017-06-15,Moderada,Chocó,Quibdó,Atrato,Kennedy,No disponible,No disponible,10 horas,Lluvioso,Sí,84,-76.6411,5.6906,No disponible,720,27
+27060030,Quibdó,Fluvial,2017-07-10,Moderada,Chocó,Quibdó,Atrato,La Yesca,No disponible,No disponible,12 horas,Lluvioso,Sí,86,-76.6411,5.6906,No disponible,740,27
+80144,Aeropuerto El Caraño,Fluvial,2017-11-15,Moderada,Chocó,Quibdó,Atrato,El Caraño,No disponible,No disponible,12 horas,Lluvioso,Sí,86,-76.6411,5.6906,No disponible,740,27
+27060030,Quibdó,Pluvial,2018-05-25,Severa,Chocó,Quibdó,Atrato,La Yesca,No disponible,No disponible,14 horas,Lluvioso,Sí,89,-76.6411,5.6906,2000000000,870,26.7
+80144,Aeropuerto El Caraño,Fluvial,2018-06-20,Severa,Chocó,Quibdó,Atrato,Las Margaritas,No disponible,No disponible,13 horas,Tormenta eléctrica,Sí,88,-76.6411,5.6906,2800000000,870,26.7
+27060030,Quibdó,Pluvial,2018-11-10,Leve,Chocó,Quibdó,Atrato,San José,No disponible,No disponible,8 horas,Lluvioso,No,81,-76.6411,5.6906,No disponible,610,27.4
+80144,Aeropuerto El Caraño,Fluvial,2018-11-15,Leve,Chocó,Quibdó,Atrato,El Caraño,No disponible,No disponible,9 horas,Lluvioso,No,82,-76.6411,5.6906,No disponible,630,27.3
+27060030,Quibdó,Pluvial,2019-06-10,Leve,Chocó,Quibdó,Atrato,San José,No disponible,No disponible,8 horas,Lluvioso,No,80,-76.6411,5.6906,No disponible,610,27.4
+80144,Aeropuerto El Caraño,Fluvial,2019-11-15,Moderada,Chocó,Quibdó,Atrato,Las Margaritas,No disponible,No disponible,10 horas,Lluvioso,Sí,84,-76.6411,5.6906,No disponible,720,27
+27060030,Quibdó,Fluvial,2020-05-20,Severa,Chocó,Quibdó,Atrato,Kennedy,No disponible,No disponible,14 horas,Tormenta eléctrica,Sí,89,-76.6411,5.6906,2500000000,870,26.7
+80144,Aeropuerto El Caraño,Fluvial,2020-11-10,Moderada,Chocó,Quibdó,Atrato,La Yesca,No disponible,No disponible,11 horas,Lluvioso,Sí,86,-76.6411,5.6906,No disponible,730,27
+27060030,Quibdó,Fluvial,2020-11-15,Severa,Chocó,Quibdó,Atrato,Las Margaritas,5.3,2650,16 horas,Tormenta eléctrica,Sí,90,-76.6411,5.6906,3000000000,890,26.5
+80144,Aeropuerto El Caraño,Fluvial,2021-06-10,Moderada,Chocó,Quibdó,Atrato,Kennedy,No disponible,No disponible,11 horas,Lluvioso,Sí,86,-76.6411,5.6906,No disponible,730,27
+27060030,Quibdó,Fluvial,2021-05-15,Severa,Chocó,Quibdó,Atrato,El Caraño,No disponible,No disponible,14 horas,Lluvioso,Sí,89,-76.6411,5.6906,2000000000,870,26.7
+80144,Aeropuerto El Caraño,Pluvial,2021-07-20,Severa,Chocó,Quibdó,Atrato,Kennedy,No disponible,No disponible,14 horas,Tormenta eléctrica,Sí,89,-76.6411,5.6906,3100000000,870,26.7
+27060030,Quibdó,Pluvial,2021-11-10,Leve,Chocó,Quibdó,Atrato,San José,No disponible,No disponible,8 horas,Lluvioso,No,80,-76.6411,5.6906,No disponible,610,27.4
+27060030,Quibdó,Pluvial,2022-07-10,Moderada,Chocó,Quibdó,Atrato,La Yesca,No disponible,No disponible,10 horas,Lluvioso,Sí,84,-76.6411,5.6906,No disponible,720,27
+80144,Aeropuerto El Caraño,Fluvial,2022-11-15,Leve,Chocó,Quibdó,Atrato,El Caraño,No disponible,No disponible,8 horas,Lluvioso,No,80,-76.6411,5.6906,No disponible,610,27.4
+27060030,Quibdó,Fluvial,2023-05-15,Severa,Chocó,Quibdó,Atrato,San José,5.2,2600,14 horas,Lluvioso,Sí,89,-76.6411,5.6906,2500000000,870,26.7
+80144,Aeropuerto El Caraño,Fluvial,2023-06-15,Severa,Chocó,Quibdó,Atrato,Kennedy,5.0,2500,14 horas,Tormenta eléctrica,Sí,89,-76.6411,5.6906,2500000000,870,26.7
+27060030,Quibdó,Pluvial,2023-11-15,Leve,Chocó,Quibdó,Atrato,La Yesca,No disponible,No disponible,8 horas,Lluvioso,No,80,-76.6411,5.6906,No disponible,610,27.4
+80144,Aeropuerto El Caraño,Fluvial,2024-05-10,Moderada,Chocó,Quibdó,Atrato,El Caraño,No disponible,No disponible,11 horas,Lluvioso,Sí,86,-76.6411,5.6906,No disponible,730,27
+27060030,Quibdó,Fluvial,2024-06-20,Severa,Chocó,Quibdó,Atrato,San José,5.2,2600,15 horas,Lluvioso,Sí,90,-76.6411,5.6906,35000000000,880,26.6
+80144,Aeropuerto El Caraño,Fluvial,2024-08-10,Severa,Chocó,Quibdó,Atrato,Las Margaritas,5.1,2550,16 horas,Tormenta eléctrica,Sí,90,-76.6411,5.6906,40000000000,890,26.5
+80144,Aeropuerto El Caraño,Fluvial,2024-08-15,Severa,Chocó,Quibdó,Atrato,Las Margaritas,5.0,2500,16 horas,Lluvioso,Sí,90,-76.6411,5.6906,38000000000,880,26.6
+27060030,Quibdó,Fluvial,2024-08-20,Severa,Chocó,Quibdó,Atrato,Las Margaritas,5.4,2680,24 horas,Lluvioso,Sí,91,-76.6411,5.6906,40000000000,900,26.5
+27060030,Quibdó,Fluvial,2024-11-07,Severa,Chocó,Quibdó,Atrato,Kennedy,5.5,2700,48 horas,Lluvioso,Sí,92,-76.6411,5.6906,45000000000,900,26.5
+80144,Aeropuerto El Caraño,Pluvial,2024-11-15,Leve,Chocó,Quibdó,Atrato,La Yesca,No disponible,No disponible,9 horas,Lluvioso,No,82,-76.6411,5.6906,No disponible,630,27.3
+27060030,Quibdó,Fluvial,2024-11-10,Severa,Chocó,Quibdó,Atrato,Kennedy,5.5,2700,48 horas,Tormenta eléctrica,Sí,92,-76.6411,5.6906,45000000000,900,26.5
+27060030,Quibdó,Fluvial,2024-11-20,Severa,Chocó,Quibdó,Atrato,El Caraño,5.3,2650,24 horas,Lluvioso,Sí,91,-76.6411,5.6906,40000000000,880,26.6
+80144,Aeropuerto El Caraño,Pluvial,2024-12-05,Leve,Chocó,Quibdó,Atrato,La Yesca,No disponible,No disponible,8 horas,Lluvioso,No,80,-76.6411,5.6906,No disponible,610,27.4
+80144,Aeropuerto El Caraño,Fluvial,2024-12-15,Moderada,Chocó,Quibdó,Atrato,San José,No disponible,No disponible,12 horas,Lluvioso,Sí,86,-76.6411,5.6906,No disponible,740,27
+27060030,Quibdó,Fluvial,2024-12-10,Severa,Chocó,Quibdó,Atrato,El Caraño,5.5,2700,48 horas,Lluvioso,Sí,92,-76.6411,5.6906,43000000000,900,26.5
+27060030,Quibdó,Fluvial,2024-12-20,Severa,Chocó,Quibdó,Atrato,Las Margaritas,5.4,2680,36 horas,Tormenta eléctrica,Sí,92,-76.6411,5.6906,43000000000,900,26.5
+80144,Aeropuerto El Caraño,Pluvial,2025-03-10,Leve,Chocó,Quibdó,Atrato,Kennedy,No disponible,No disponible,8 horas,Lluvioso,No,80,-76.6411,5.6906,No disponible,610,27.4
+27060030,Quibdó,Fluvial,2025-05-15,Moderada,Chocó,Quibdó,Atrato,La Yesca,No disponible,No disponible,11 horas,Lluvioso,Sí,86,-76.6411,5.6906,No disponible,730,27
+27060030,Quibdó,Fluvial,2025-05-20,Moderada,Chocó,Quibdó,Atrato,Las Margaritas,No disponible,No disponible,11 horas,Lluvioso,Sí,86,-76.6411,5.6906,No disponible,740,27
+80144,Aeropuerto El Caraño,Fluvial,2025-06-05,Severa,Chocó,Quibdó,Atrato,Kennedy,5.2,2600,15 horas,Tormenta eléctrica,Sí,90,-76.6411,5.6906,35000000000,880,26.6
+27060030,Quibdó,Pluvial,2025-06-20,Leve,Chocó,Quibdó,Atrato,La Yesca,No disponible,No disponible,8 horas,Lluvioso,No,80,-76.6411,5.6906,No disponible,610,27.4
+80144,Aeropuerto El Caraño,Fluvial,2025-06-10,Severa,Chocó,Quibdó,Atrato,El Caraño,5.1,2550,14 horas,Lluvioso,Sí,89,-76.6411,5.6906,30000000000,870,26.7
+80144,Aeropuerto El Caraño,Fluvial,2025-06-15,Severa,Chocó,Quibdó,Atrato,San José,5.2,2600,15 horas,Lluvioso,Sí,90,-76.6411,5.6906,35000000000,880,26.6
+27060030,Quibdó,Fluvial,2025-07-05,Moderada,Chocó,Quibdó,Atrato,El Caraño,No disponible,No disponible,10 horas,Lluvioso,Sí,84,-76.6411,5.6906,No disponible,720,27
+27060030,Quibdó,Pluvial,2025-07-10,Leve,Chocó,Quibdó,Atrato,San José,No disponible,No disponible,9 horas,Lluvioso,No,82,-76.6411,5.6906,No disponible,630,27.3
+27060030,Quibdó,Fluvial,2025-07-15,Severa,Chocó,Quibdó,Atrato,San José,5.1,2550,14 horas,Lluvioso,Sí,89,-76.6411,5.6906,30000000000,870,26.7

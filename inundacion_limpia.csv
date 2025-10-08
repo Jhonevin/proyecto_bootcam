@@ -1,0 +1,192 @@
+id_estacion,registro_fecha,departamento,municipio,evento,intensidad,zona_hidrografica,altura_agua,caudal,duracion_lluvia,clima,estado_climatico,nubosidad,indice_humedad,longitud,latitud,precipitacion_mm,temperatura_c,unidad_media_c
+80144,1998-11-20,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,8,nublado,100.0,-76.6611,5.6858,90,27.8,°C
+80144,1999-03-27,Chocó,Quibdó,inundacion,leve,Atrato,Medio,Bajo,8h,lluvioso,9,parcial,100.0,-76.6611,5.6858,70,28.0,°C
+80144,1999-11-06,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,24h,lluvioso,9,nublado,100.0,-76.6611,5.6858,250,28.1,°C
+80144,2000-05-08,Chocó,Quibdó,inundacion,severa,Atrato,Crítico,Alto,36h,lluvioso,8,muy nublado,100.0,-76.6611,5.6858,300,28.1,°C
+80144,2000-12-04,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,9,nublado,100.0,-76.6611,5.6858,120,28.0,°C
+80144,2001-06-20,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,3,nublado,100.0,-76.6611,5.6858,115,27.8,°C
+80144,2001-08-22,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,9h,lluvioso,5,nublado,100.0,-76.6611,5.6858,110,28.0,°C
+80144,2001-11-28,Chocó,Quibdó,inundacion,severa,Atrato,Alto,Alto,20h,lluvioso,5,muy nublado,98.0,-76.6611,5.6858,210,28.1,°C
+80144,2002-03-19,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,3,nublado,94.0,-76.6611,5.6858,110,28.1,°C
+80144,2002-04-03,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,7,nublado,94.0,-76.6611,5.6858,120,28.0,°C
+80144,2002-04-25,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,10h,lluvioso,8,nublado,86.0,-76.6611,5.6858,110,28.0,°C
+80144,2002-11-15,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,8,nublado,84.0,-76.6611,5.6858,125,28.0,°C
+80144,2002-12-16,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,8,nublado,74.0,-76.6611,5.6858,120,28.1,°C
+80144,2003-05-19,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,9h,lluvioso,9,nublado,75.0,-76.6611,5.6858,115,28.0,°C
+80144,2003-08-06,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,24h,lluvioso,9,muy nublado,70.0,-76.6611,5.6858,250,28.2,°C
+80144,2003-11-30,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,9,nublado,66.0,-76.6611,5.6858,120,28.1,°C
+80144,2004-04-30,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,9,nublado,70.0,-76.6611,5.6858,125,28.0,°C
+80144,2004-05-28,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,8,nublado,89.0,-76.6611,5.6858,115,28.0,°C
+80144,2004-06-09,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,25,nublado,100.0,-76.6611,5.6858,135,28.0,°C
+80144,2004-11-02,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,25,nublado,100.0,-76.6611,5.6858,130,28.1,°C
+80144,2005-02-15,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,9,nublado,100.0,-76.6611,5.6858,125,28.0,°C
+80144,2005-02-17,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,9,nublado,100.0,-76.6611,5.6858,115,27.9,°C
+80144,2005-03-16,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,8,nublado,100.0,-76.6611,5.6858,120,28.0,°C
+80144,2005-04-09,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,3,nublado,100.0,-76.6611,5.6858,130,28.0,°C
+80144,2005-11-30,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,7,nublado,100.0,-76.6611,5.6858,140,28.1,°C
+80144,2006-02-27,Chocó,Quibdó,inundacion,severa,Atrato,Crítico,Alto,36h,lluvioso,8,muy nublado,100.0,-76.6611,5.6858,280,28.3,°C
+80144,2006-03-05,Chocó,Quibdó,inundacion,leve,Atrato,Medio,Bajo,6h,lluvioso,9,parcial,100.0,-76.6611,5.6858,75,28.0,°C
+80144,2007-04-18,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,24h,lluvioso,9,muy nublado,100.0,-76.6611,5.6858,260,28.1,°C
+80144,2007-05-30,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,9,nublado,100.0,-76.6611,5.6858,125,27.9,°C
+80144,2007-08-22,Chocó,Quibdó,inundacion,severa,Atrato,Crítico,Muy Alto,48h,tormenta eléctrica,9,muy nublado,100.0,-76.6611,5.6858,300,28.4,°C
+80144,2008-07-16,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,5,nublado,100.0,-76.6611,5.6858,135,28.0,°C
+80144,2008-12-02,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,5,nublado,89.9578947368421,-76.6611,5.6858,120,27.8,°C
+80144,2008-12-27,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,8h,lluvioso,3,nublado,94.0,-76.6611,5.6858,100,28.0,°C
+80144,2009-07-12,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,7,nublado,89.0,-76.6611,5.6858,110,28.0,°C
+80144,2009-08-16,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,8h,lluvioso,8,parcial,86.0,-76.6611,5.6858,95,28.0,°C
+80144,2009-11-19,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,7,nublado,79.0,-76.6611,5.6858,120,28.1,°C
+80144,2010-03-04,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,7,nublado,70.0,-76.6611,5.6858,110,27.9,°C
+80144,2010-08-13,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,8h,lluvioso,7,parcial,69.0,-76.6611,5.6858,95,28.0,°C
+80144,2010-11-03,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,24h,lluvioso,9,muy nublado,66.0,-76.6611,5.6858,240,28.1,°C
+80144,2010-12-20,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,9,nublado,79.0,-76.6611,5.6858,120,28.0,°C
+80144,2011-01-18,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,8h,lluvioso,9,nublado,79.0,-76.6611,5.6858,110,29.2,°C
+80144,2011-05-10,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,tormenta eléctrica,9,nublado,84.0,-76.6611,5.6858,90,24.0,°C
+80144,2011-05-30,Chocó,Quibdó,inundacion,leve,Atrato,Medio,Bajo,8h,lluvioso,3,parcial,89.0,-76.6611,5.6858,70,24.0,°C
+80144,2011-06-24,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,24h,lluvioso,3,nublado,89.0,-76.6611,5.6858,250,24.0,°C
+80144,2011-09-01,Chocó,Quibdó,inundacion,severa,Atrato,Crítico,Alto,36h,lluvioso,3,muy nublado,94.0,-76.6611,5.6858,300,24.0,°C
+80144,2011-12-14,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,3,nublado,100.0,-76.6611,5.6858,120,24.0,°C
+80144,2012-02-08,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,3,nublado,100.0,-76.6611,5.6858,115,24.0,°C
+80144,2012-07-20,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,9h,lluvioso,5,nublado,100.0,-76.6611,5.6858,110,24.1,°C
+80144,2012-07-29,Chocó,Quibdó,inundacion,severa,Atrato,Alto,Alto,20h,lluvioso,3,muy nublado,94.0,-76.6611,5.6858,210,25.0,°C
+80144,2013-11-20,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,5,nublado,94.0,-76.6611,5.6858,110,25.0,°C
+80144,2014-05-01,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,5,nublado,94.0,-76.6611,5.6858,120,26.5,°C
+80144,2015-01-25,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,10h,lluvioso,5,nublado,100.0,-76.6611,5.6858,110,27.0,°C
+80144,2015-02-10,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,5,nublado,100.0,-76.6611,5.6858,125,29.0,°C
+80144,2015-05-14,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,tormenta eléctrica,5,nublado,100.0,-76.6611,5.6858,120,28.8,°C
+80144,2015-08-29,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,9h,tormenta eléctrica,5,nublado,100.0,-76.6611,5.6858,115,30.0,°C
+80144,2015-09-10,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,24h,tormenta eléctrica,5,muy nublado,99.0,-76.6611,5.6858,250,31.0,°C
+80144,2015-04-12,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,tormenta eléctrica,5,nublado,100.0,-76.6611,5.6858,120,30.4,°C
+80144,2015-09-11,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,7,nublado,84.0,-76.6611,5.6858,125,27.0,°C
+80144,2016-02-03,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,7,nublado,81.0,-76.6611,5.6858,115,25.0,°C
+80144,2016-02-03,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,7,nublado,70.0,-76.6611,5.6858,135,24.0,°C
+80144,2016-02-03,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,17,nublado,66.0,-76.6611,5.6858,130,23.0,°C
+80144,2016-02-03,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,8,nublado,69.0,-76.6611,5.6858,125,23.0,°C
+80144,2016-02-03,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,8,nublado,62.0,-76.6611,5.6858,115,23.0,°C
+80144,2016-02-03,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,8,nublado,59.0,-76.6611,5.6858,120,23.0,°C
+80144,2016-02-03,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,9,nublado,68.0,-76.6611,5.6858,130,23.0,°C
+80144,2016-02-03,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,9,nublado,79.0,-76.6611,5.6858,140,23.0,°C
+80144,2016-02-03,Chocó,Quibdó,inundacion,severa,Atrato,Crítico,Alto,36h,lluvioso,9,muy nublado,89.0,-76.6611,5.6858,280,23.0,°C
+80144,2016-02-02,Chocó,Quibdó,inundacion,leve,Atrato,Medio,Bajo,6h,lluvioso,9,parcial,94.0,-76.6611,5.6858,75,23.0,°C
+80144,2016-02-02,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,24h,tormenta eléctrica,8,muy nublado,89.0,-76.6611,5.6858,260,23.0,°C
+80144,2016-02-02,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,tormenta eléctrica,9,nublado,100.0,-76.6611,5.6858,125,23.0,°C
+80144,2016-02-02,Chocó,Quibdó,inundacion,severa,Atrato,Crítico,Muy Alto,48h,lluvioso,3,muy nublado,100.0,-76.6611,5.6858,300,23.0,°C
+80144,2016-02-02,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,3,nublado,100.0,-76.6611,5.6858,135,22.7,°C
+80144,2016-02-02,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,3,nublado,100.0,-76.6611,5.6858,120,24.0,°C
+80144,2016-02-02,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,8h,lluvioso,3,nublado,100.0,-76.6611,5.6858,100,25.0,°C
+80144,2016-02-02,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,5,nublado,100.0,-76.6611,5.6858,110,26.0,°C
+80144,2016-02-02,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,8h,lluvioso,3,parcial,100.0,-76.6611,5.6858,95,27.0,°C
+80144,2016-02-02,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,3,nublado,100.0,-76.6611,5.6858,120,29.0,°C
+80144,2016-02-02,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,3,nublado,100.0,-76.6611,5.6858,110,29.5,°C
+80144,2016-02-04,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,8h,lluvioso,5,parcial,100.0,-76.6611,5.6858,95,30.0,°C
+80144,2016-02-04,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,24h,lluvioso,5,muy nublado,100.0,-76.6611,5.6858,240,28.0,°C
+80144,2016-02-04,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,5,nublado,100.0,-76.6611,5.6858,120,27.5,°C
+80144,2016-02-04,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,8h,lluvioso,5,nublado,84.0,-76.6611,5.6858,110,27.0,°C
+80144,2016-02-04,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,24h,lluvioso,3,nublado,81.0,-76.6611,5.6858,90,26.0,°C
+80144,2016-02-04,Chocó,Quibdó,inundacion,leve,Atrato,Medio,Bajo,12h,lluvioso,3,parcial,79.0,-76.6611,5.6858,70,26.0,°C
+80144,2016-02-04,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,8h,lluvioso,3,nublado,74.0,-76.6611,5.6858,250,25.0,°C
+80144,2016-02-04,Chocó,Quibdó,inundacion,severa,Atrato,Crítico,Alto,10h,lluvioso,3,muy nublado,69.0,-76.6611,5.6858,300,24.0,°C
+80144,2016-02-04,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,8h,lluvioso,3,nublado,62.0,-76.6611,5.6858,120,24.0,°C
+80144,2016-02-04,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,24h,lluvioso,18,nublado,63.0,-76.6611,5.6858,115,24.0,°C
+80144,2016-02-05,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,36h,lluvioso,9,nublado,63.0,-76.6611,5.6858,110,24.0,°C
+80144,2016-02-05,Chocó,Quibdó,inundacion,severa,Atrato,Alto,Alto,10h,lluvioso,7,muy nublado,66.0,-76.6611,5.6858,210,24.0,°C
+80144,2016-02-05,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,9,nublado,70.0,-76.6611,5.6858,110,24.0,°C
+80144,2016-02-05,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,9h,lluvioso,7,nublado,84.0,-76.6611,5.6858,120,23.0,°C
+80144,2016-02-05,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,20h,lluvioso,3,nublado,84.0,-76.6611,5.6858,110,24.0,°C
+80144,2016-02-05,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,3,nublado,94.0,-76.6611,5.6858,125,23.0,°C
+80144,2016-02-05,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,8,nublado,94.0,-76.6611,5.6858,120,23.0,°C
+80144,2016-02-05,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,8,nublado,94.0,-76.6611,5.6858,115,23.5,°C
+80144,2016-02-05,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,12h,lluvioso,9,muy nublado,94.0,-76.6611,5.6858,250,24.0,°C
+80144,2016-02-05,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,5,nublado,100.0,-76.6611,5.6858,120,26.0,°C
+80144,2016-02-06,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,8,nublado,100.0,-76.6611,5.6858,125,26.9,°C
+80144,2016-02-06,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,tormenta eléctrica,3,nublado,94.0,-76.6611,5.6858,115,29.0,°C
+80144,2016-02-06,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,7,nublado,94.0,-76.6611,5.6858,135,30.0,°C
+80144,2016-02-06,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,3,nublado,94.0,-76.6611,5.6858,130,29.7,°C
+80144,2016-02-06,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,3,nublado,100.0,-76.6611,5.6858,125,31.0,°C
+80144,2016-02-06,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,3,nublado,98.0,-76.6611,5.6858,115,32.0,°C
+80144,2016-02-06,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,3,nublado,89.0,-76.6611,5.6858,120,30.5,°C
+80144,2016-02-06,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,36h,lluvioso,7,nublado,89.0,-76.6611,5.6858,130,29.0,°C
+80144,2016-02-06,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,6h,lluvioso,3,nublado,83.0,-76.6611,5.6858,140,28.0,°C
+80144,2016-02-06,Chocó,Quibdó,inundacion,severa,Atrato,Crítico,Alto,24h,lluvioso,3,muy nublado,79.0,-76.6611,5.6858,280,27.0,°C
+80144,2016-02-07,Chocó,Quibdó,inundacion,leve,Atrato,Medio,Bajo,10h,lluvioso,3,parcial,79.0,-76.6611,5.6858,75,26.0,°C
+80144,2016-02-07,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,48h,lluvioso,7,muy nublado,75.0,-76.6611,5.6858,260,23.0,°C
+80144,2016-02-07,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,8,nublado,70.0,-76.6611,5.6858,125,22.0,°C
+80144,2016-02-07,Chocó,Quibdó,inundacion,severa,Atrato,Crítico,Muy Alto,10h,lluvioso,17,muy nublado,70.0,-76.6611,5.6858,300,22.0,°C
+80144,2016-02-07,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,7,nublado,68.0,-76.6611,5.6858,135,23.0,°C
+80144,2016-02-07,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,18,nublado,75.0,-76.6611,5.6858,120,23.0,°C
+80144,2016-02-07,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,3,nublado,75.0,-76.6611,5.6858,100,22.0,°C
+80144,2016-02-07,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,25,nublado,89.0,-76.6611,5.6858,110,22.0,°C
+80144,2016-02-07,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,12h,lluvioso,25,parcial,94.0,-76.6611,5.6858,95,22.0,°C
+80144,2016-02-07,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,36h,lluvioso,8,nublado,100.0,-76.6611,5.6858,120,22.0,°C
+80144,2016-02-08,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,6h,lluvioso,9,nublado,100.0,-76.6611,5.6858,110,22.0,°C
+80144,2016-02-08,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,24h,lluvioso,7,parcial,100.0,-76.6611,5.6858,95,22.0,°C
+80144,2016-02-08,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,10h,lluvioso,3,muy nublado,100.0,-76.6611,5.6858,240,23.0,°C
+80144,2016-02-08,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,48h,lluvioso,9,nublado,100.0,-76.6611,5.6858,120,26.0,°C
+80144,2016-02-08,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,9,nublado,100.0,-76.6611,5.6858,110,26.8,°C
+80144,2016-02-08,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,9,nublado,100.0,-76.6611,5.6858,90,28.0,°C
+80144,2016-02-08,Chocó,Quibdó,inundacion,leve,Atrato,Medio,Bajo,8h,lluvioso,7,parcial,100.0,-76.6611,5.6858,70,29.0,°C
+80144,2016-02-08,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,12h,lluvioso,9,nublado,100.0,-76.6611,5.6858,250,29.7,°C
+80144,2016-02-08,Chocó,Quibdó,inundacion,severa,Atrato,Crítico,Alto,8h,lluvioso,5,muy nublado,100.0,-76.6611,5.6858,300,31.0,°C
+80144,2016-02-08,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,5,nublado,99.0,-76.6611,5.6858,120,32.0,°C
+80144,2016-02-09,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,5,nublado,100.0,-76.6611,5.6858,115,31.6,°C
+80144,2016-02-09,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,8h,lluvioso,5,nublado,100.0,-76.6611,5.6858,110,31.0,°C
+80144,2016-02-09,Chocó,Quibdó,inundacion,severa,Atrato,Alto,Alto,24h,lluvioso,3,muy nublado,89.0,-76.6611,5.6858,210,30.0,°C
+80144,2016-02-09,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,7,nublado,84.0,-76.6611,5.6858,110,28.0,°C
+80144,2016-02-09,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,8,nublado,84.0,-76.6611,5.6858,120,28.0,°C
+80144,2016-02-09,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,36h,lluvioso,17,nublado,73.0,-76.6611,5.6858,110,26.0,°C
+80144,2016-02-09,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,6h,lluvioso,9,nublado,70.0,-76.6611,5.6858,125,25.0,°C
+80144,2016-02-09,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,24h,lluvioso,8,nublado,70.0,-76.6611,5.6858,120,25.0,°C
+80144,2016-02-09,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,9,nublado,72.0,-76.6611,5.6858,115,25.0,°C
+80144,2016-02-09,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,48h,lluvioso,8,muy nublado,100.0,-76.6611,5.6858,250,24.0,°C
+80144,2016-02-10,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,8,nublado,94.0,-76.6611,5.6858,120,24.0,°C
+80144,2016-02-10,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,25,nublado,94.0,-76.6611,5.6858,125,25.0,°C
+80144,2016-02-10,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,8h,tormenta eléctrica,9,nublado,100.0,-76.6611,5.6858,115,25.0,°C
+80144,2016-02-10,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,9,nublado,100.0,-76.6611,5.6858,135,25.0,°C
+80144,2016-02-10,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,8h,lluvioso,9,nublado,100.0,-76.6611,5.6858,130,24.0,°C
+80144,2016-02-10,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,9,nublado,100.0,-76.6611,5.6858,125,24.7,°C
+80144,2016-02-10,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,8,nublado,100.0,-76.6611,5.6858,115,26.0,°C
+80144,2016-02-10,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,8h,lluvioso,8,nublado,100.0,-76.6611,5.6858,120,26.0,°C
+80144,2016-02-10,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,24h,lluvioso,8,nublado,99.0,-76.6611,5.6858,130,27.4,°C
+80144,2016-02-10,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,7,nublado,100.0,-76.6611,5.6858,140,28.0,°C
+80144,2016-02-11,Chocó,Quibdó,inundacion,severa,Atrato,Crítico,Alto,8h,lluvioso,7,muy nublado,100.0,-76.6611,5.6858,280,28.0,°C
+80144,2016-02-11,Chocó,Quibdó,inundacion,leve,Atrato,Medio,Bajo,24h,lluvioso,5,parcial,100.0,-76.6611,5.6858,75,29.2,°C
+80144,2016-02-11,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,12h,lluvioso,5,muy nublado,100.0,-76.6611,5.6858,260,31.0,°C
+80144,2016-02-11,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,8h,lluvioso,5,nublado,100.0,-76.6611,5.6858,125,31.0,°C
+80144,2016-02-11,Chocó,Quibdó,inundacion,severa,Atrato,Crítico,Muy Alto,10h,lluvioso,5,muy nublado,94.0,-76.6611,5.6858,300,30.8,°C
+80144,2016-02-11,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,8h,lluvioso,3,nublado,94.0,-76.6611,5.6858,135,30.0,°C
+80144,2016-02-11,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,24h,lluvioso,7,nublado,86.0,-76.6611,5.6858,120,30.0,°C
+80144,2016-02-11,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,36h,lluvioso,7,nublado,79.0,-76.6611,5.6858,100,28.0,°C
+80144,2016-02-11,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,7,nublado,79.0,-76.6611,5.6858,110,26.0,°C
+80144,2016-02-11,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,10h,lluvioso,7,parcial,75.0,-76.6611,5.6858,95,25.0,°C
+80144,2017-09-01,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,9,nublado,74.0,-76.6611,5.6858,120,25.0,°C
+80144,2017-09-01,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,36h,lluvioso,9,nublado,74.0,-76.6611,5.6858,110,24.0,°C
+80144,2017-09-01,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,6h,lluvioso,8,parcial,77.0,-76.6611,5.6858,95,23.0,°C
+80144,2017-09-01,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,24h,lluvioso,9,muy nublado,89.0,-76.6611,5.6858,240,24.0,°C
+80144,2017-09-01,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,9,nublado,89.0,-76.6611,5.6858,120,24.0,°C
+80144,2017-09-02,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,48h,lluvioso,8,nublado,94.0,-76.6611,5.6858,110,23.0,°C
+80144,2017-09-02,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,9,nublado,94.0,-76.6611,5.6858,90,23.0,°C
+80144,2017-09-02,Chocó,Quibdó,inundacion,leve,Atrato,Medio,Bajo,10h,lluvioso,8,parcial,100.0,-76.6611,5.6858,70,23.0,°C
+80144,2017-09-02,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,8h,lluvioso,9,nublado,100.0,-76.6611,5.6858,250,23.0,°C
+80144,2017-09-02,Chocó,Quibdó,inundacion,severa,Atrato,Crítico,Alto,12h,lluvioso,9,muy nublado,100.0,-76.6611,5.6858,300,23.2,°C
+80144,2017-09-03,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,8h,lluvioso,9,nublado,100.0,-76.6611,5.6858,120,24.0,°C
+80144,2017-09-03,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,9,nublado,100.0,-76.6611,5.6858,115,25.0,°C
+80144,2017-09-03,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,10h,lluvioso,8,nublado,100.0,-76.6611,5.6858,110,26.6,°C
+80144,2017-09-03,Chocó,Quibdó,inundacion,severa,Atrato,Alto,Alto,8h,lluvioso,7,muy nublado,100.0,-76.6611,5.6858,210,28.0,°C
+80144,2017-09-03,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,24h,lluvioso,7,nublado,100.0,-76.6611,5.6858,110,28.0,°C
+80144,2017-09-04,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,3,nublado,100.0,-76.6611,5.6858,120,29.7,°C
+80144,2017-09-04,Chocó,Quibdó,inundacion,moderada,Atrato,Medio,Moderado,12h,lluvioso,5,nublado,100.0,-76.6611,5.6858,110,30.0,°C
+80144,2017-09-04,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,36h,lluvioso,8,nublado,99.0,-76.6611,5.6858,125,30.0,°C
+80144,2017-09-04,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,6h,lluvioso,5,nublado,100.0,-76.6611,5.6858,120,30.3,°C
+80144,2017-09-04,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,24h,lluvioso,7,nublado,94.0,-76.6611,5.6858,115,27.0,°C
+80144,2017-09-05,Chocó,Quibdó,inundacion,severa,Atrato,Muy Alto,Alto,10h,lluvioso,7,muy nublado,81.0,-76.6611,5.6858,250,27.0,°C
+80144,2017-09-05,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,48h,lluvioso,7,nublado,84.0,-76.6611,5.6858,120,25.0,°C
+80144,2017-09-05,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,7,nublado,79.0,-76.6611,5.6858,125,24.0,°C
+80144,2017-09-05,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,tormenta eléctrica,7,nublado,70.0,-76.6611,5.6858,115,24.0,°C
+80144,2017-09-05,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,8h,lluvioso,8,nublado,70.0,-76.6611,5.6858,135,24.0,°C
+80144,2017-09-06,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,12h,lluvioso,9,nublado,70.0,-76.6611,5.6858,130,24.0,°C
+80144,2017-09-06,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,8h,lluvioso,8,nublado,91.0,-76.6611,5.6858,125,24.0,°C
+80144,2017-09-06,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,8,nublado,100.0,-76.6611,5.6858,115,24.0,°C
+80144,2017-09-06,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,8,nublado,100.0,-76.6611,5.6858,120,22.3,°C
+80144,2017-09-06,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,8h,lluvioso,8,nublado,100.0,-76.6611,5.6858,130,24.0,°C
+80144,2017-09-07,Chocó,Quibdó,inundacion,moderada,Atrato,Alto,Moderado,10h,lluvioso,25,nublado,100.0,-76.6611,5.6858,140,22.0,°C
+80144,2017-09-07,Chocó,Quibdó,inundacion,severa,Atrato,Crítico,Alto,10h,lluvioso,3,muy nublado,100.0,-76.6611,5.6858,280,24.0,°C
+80144,2017-09-07,Chocó,Quibdó,inundacion,leve,Atrato,Medio,Bajo,8h,lluvioso,7,parcial,100.0,-76.6611,5.6858,75,24.0,°C
