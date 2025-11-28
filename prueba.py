@@ -1,0 +1,1 @@
+sheet['C1'].alignment = Alignment(horizontal='center', vertical='center')
